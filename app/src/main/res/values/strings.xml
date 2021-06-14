@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">BioMetricApp</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Bio Metric App</string>
+    <string name="nav_header_subtitle">sakib@google.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
